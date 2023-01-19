@@ -2,14 +2,14 @@
   "name": "cocktail-bar",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Myro4ka.github.io/cocktail-bar",
+  "homepage": "https://1-Dmytro-Shynkarenko.github.io/cocktail-bar",
   "scripts": {
     "start": "parcel src/*.html --open",
     "build": "parcel build src/*.html --public-url /cocktail-bar/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Myro4ka/cocktail-bar.git"
+    "url": "git+https://github.com/1-Dmytro-Shynkarenko/cocktail-bar.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
